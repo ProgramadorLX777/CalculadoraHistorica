@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CalculadoraHistorial</string>
+    <string name="txtTituloPrincipal">Calculadora Histórica</string>
+    <string name="txtPrimerValor">Ingrese un valor: </string>
+    <string name="txtSegundoValor">Ingrese el segundo valor: </string>
+    <string name="btnSumar">Sumar (+) </string>
+    <string name="btnRestar">Restar (-) </string>
+    <string name="btnMultiplicar">Multiplicar (*) </string>
+    <string name="btnDividir">Dividir (/) </string>
+    <string name="btnPotencia">Potencia (^) </string>
+    <string name="btnIgual">= </string>
+    <string name="btnReset">C </string>
+    <string name="btnCalcular">Calcular = </string>
+    <string name="btnHistorial">Historial </string>
+    <string name="btnVolverMain">Volver </string>
+    <string name="txtResultado">Resultado: </string>
+    <string name="txtHistorial">Historial Operaciones </string>
+    <string name="txtAutor">Desarrollado por Jorge Lecaro </string>
+</resources>
